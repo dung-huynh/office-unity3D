@@ -19,7 +19,13 @@ are implemented, if not, done.
 The project is ready-to-go once you download it! Open the scene file and you are all set. One problem is that you have to bake the whole lighting system again. :)
 
 ## Screenshots
-To be added soon.
+![Dining Room](/Screenshots/light_test_1.jpg?raw=true "Light Test")
+![Dining Room](/Screenshots/light_test_2.jpg?raw=true "Light Test 2")
+![Chair](/Screenshots/texture_test_1.jpg?raw=true "Texture Test")
+![Office Room](/Screenshots/room_1.jpg?raw=true "Room")
+![Office Room](/Screenshots/room_2.jpg?raw=true "Room")
+![Office Room](/Screenshots/room_3.jpg?raw=true "Room")
+![Hallway](/Screenshots/hall_1.jpg?raw=true "Room")
 
 ## Acknowledgments
 * Nguyen Hoang Trung (Programmer)
