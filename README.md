@@ -10,6 +10,9 @@ The game environment is complete; the models are properly placed. Several intera
 are implemented, if not, done.
 
 ## Getting Started
+### Original Idea
+The player becomes a security guy who has to work late at night in an office. During one night, weird noises and things occur, and you have to discover out what has happened.
+
 ### Software that you will need to work on this project:
 
 * [Unity3D](https://store.unity.com) - Game Engine
